@@ -609,8 +609,6 @@ footer a:hover {
   
   nav ul {
     gap: 10px;
-    width: 80%;
-    justify-content: space-between;
   }
 
   nav{
